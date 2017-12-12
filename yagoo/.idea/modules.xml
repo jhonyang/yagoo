@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/file-server/file-server.iml" filepath="$PROJECT_DIR$/file-server/file-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sales-admin/sales-admin.iml" filepath="$PROJECT_DIR$/sales-admin/sales-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yagoo.iml" filepath="$PROJECT_DIR$/.idea/yagoo.iml" />
+    </modules>
+  </component>
+</project>
